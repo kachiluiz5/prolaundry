@@ -1,6 +1,5 @@
 <!DOCTYPE html>
 <html lang="en">
-  <!-- Mirrored from websmirno.site/viktor/prolaundry/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Apr 2024 20:02:20 GMT -->
   <head>
     <meta charset="utf-8" />
     <title>ProLaundry - Responsive HTML5 Template</title>
@@ -27,182 +26,170 @@
         <div class="mm-backbtn">Back</div>
       </div>
     </nav>
-    <header id="tt-header">
-      <!-- holder-top (desktop) -->
-      <div class="holder-top-desktop d-none d-md-block">
-        <div class="row">
-          <div class="col-auto">
-            <div class="h-info01">
-              <div class="tt-item">
-                <address>8494 Signal Hill Road Manassas, VA, 20110</address>
-              </div>
-              <div class="tt-item">Mon-Fri 08:00 AM - 05:00 PM</div>
-              <div class="tt-item">
-                <a href="mailto:info@santizex-site.com">info@yourcompany.com</a>
-              </div>
-            </div>
-          </div>
-          <div class="col-auto ml-auto">
-            <div class="tt-obj">
-              <div class="h-info02">
-                <div class="tt-item">
-                  <address>
-                    <a href="tel:1(800)765-43-21"
-                      ><span class="icons-483947"></span> 1 (800) 765-43-21</a
-                    >
-                  </address>
-                </div>
-              </div>
-            </div>
-            <div class="tt-obj">
-              <ul class="h-social">
-                <li>
-                  <a
-                    href="https://twitter.com/"
-                    target="_blank"
-                    class="icons-733635"
-                  ></a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.facebook.com/"
-                    target="_blank"
-                    class="icons-59439"
-                  ></a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.facebook.com/"
-                    target="_blank"
-                    class="icons-2111532"
-                  ></a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.instagram.com/"
-                    target="_blank"
-                    class="icons-733614"
-                  ></a>
-                </li>
-              </ul>
-            </div>
-          </div>
-        </div>
-      </div>
-      <!-- /holder-top (desktop) --><!-- holder- -->
-      <div id="js-init-sticky">
-        <div class="tt-holder-wrapper">
-          <div class="tt-holder">
-            <div class="tt-col-left">
-              <!-- logo -->
-              <a href="index.html" class="tt-logo tt-logo-alignment"
-                >
-				<!-- <i class="icons-logo tt-icon"></i
-                ><span class="tt-base-color">Pro</span>Laundry  -->
-				<img src="images/logo.png" alt="">
-				
-				</a
-              ><!-- /logo -->
-            </div>
-            <div class="tt-col-center tt-col-wide tt-col-objects text-center">
-              <div class="tt-col__item">
-                <!-- desktop-nav -->
-                <nav id="tt-nav">
-                  <ul>
-                    <li><a href="index.html">Home</a></li>
-                    <li>
-                      <a href="about.html">About Us</a>
-                      <ul>
-                        <li>
-                          <a href="about.html">Sub menu level 01</a>
-                          <ul>
-                            <li><a href="about.html">Sub menu level 02</a></li>
-                            <li><a href="about.html">Sub menu level 02</a></li>
-                            <li>
-                              <a href="about.html">Sub menu level 02</a>
-                              <ul>
-                                <li>
-                                  <a href="about.html">Sub menu level 03</a>
-                                </li>
-                                <li>
-                                  <a href="about.html">Sub menu level 03</a>
-                                </li>
-                                <li>
-                                  <a href="about.html">Sub menu level 03</a>
-                                </li>
-                              </ul>
-                            </li>
-                            <li><a href="about.html">Sub menu level 02</a></li>
-                          </ul>
-                        </li>
-                        <li><a href="about.html">Sub menu level 01</a></li>
-                      </ul>
-                    </li>
-                    <li>
-                      <a href="services.html">Services</a>
-                      <ul>
-                        <li><a href="services-item.html">Services Item</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="price.html">Prices</a></li>
-                    <li>
-                      <a href="blog.html">Blog</a>
-                      <ul>
-                        <li><a href="blog-item.html">Blog Item</a></li>
-                      </ul>
-                    </li>
-                    <li><a href="faq.html">FAQ</a></li>
-                    <li><a href="contact.html">Contacts</a></li>
-                  </ul>
-                </nav>
-                <!-- /desktop-nav -->
-              </div>
-            </div>
-            <div class="tt-col-right tt-col-objects">
-              <div class="tt-col__item d-block d-lg-none">
-                <div class="h-info02">
-                  <div class="tt-item">
-                    <address>
-                      <a href="tel:1(800)7654321"
-                        ><span class="icons-483947"></span> 1 (800) 765-43-21</a
-                      >
-                    </address>
-                  </div>
-                </div>
-              </div>
-              <div class="tt-col__item">
-                <div class="tt-obj tt-obj-cart js-dropdown-cart">
-                  <a href="#" class="tt-obj__btn"
-                    ><i class="icons-711897"></i>
-                    <div class="tt-obj__badge">2</div></a
-                  >
-                </div>
-              </div>
-              <div class="tt-col__item d-none d-md-block">
-                <a
-                  href="#"
-                  class="tt-btn"
-                  data-toggle="modal"
-                  data-target="#modalMRequestQuote"
-                  ><span class="mask">Schedule a Pickup</span>
-                  <div class="button">Schedule a Pickup</div></a
-                >
-              </div>
-              <div class="tt-col__item toggle-wrapper">
-                <a href="#" id="tt-menu-toggle" class="icons-1828859"></a>
-              </div>
-            </div>
-          </div>
-        </div>
-      </div>
-    </header>
+
+
+
+
+
+    <?php require_once "include/header.php"; ?>
+
+
+
+
+
+
+
+    
     <main id="tt-pageContent">
-      <div id="js-mainSlider">
+      <!-- <div id="js-mainSlider">
         <div class="mainSlider-preloader">
           <span class="tt-base-color">Pro</span>Laundry
         </div>
         <div class="mainSlider-wrapper"></div>
-      </div>
+      </div> -->
+	  <div id="js-mainSlider" class="show start"><div class="mainSlider-preloader"><span class="tt-base-color">Pro</span>Laundry</div><div class="mainSlider-wrapper"><div class="slick-default main-slider slick-initialized slick-slider">
+		<div class="slick-list draggable"><div class="slick-track" style="opacity: 1; width: 2440px;"><div class="item slick-slide" data-slick-index="0" aria-hidden="true" style="width: 1220px; position: relative; left: 0px; top: 0px; z-index: 998; opacity: 0; transition: opacity 1200ms ease 0s;" tabindex="-1">
+					<div class="item_left">
+						<div class="item__img">
+							<picture>
+								<source srcset="images/mainslide01-01-md.jpg" media="(max-width: 1024px)" type="image/jpg">
+								<source srcset="images/mainslide01-01-md.jpg" media="(max-width: 1024px)" type="image/jpg">
+								<source srcset="images/mainslide01-01.jpg" type="image/jpg">
+								<source srcset="images/mainslide01-01.jpg" type="image/jpg">
+								<img src="images/mainslide01-01-md.jpg" alt="">
+							</picture>
+						</div>
+						<div class="item__content">
+							<div class="content-align js-rotation">
+								<h4 class="main-slider__title">Laundry<br> Service</h4>
+								<p>We Care for the Clothes You Wear</p>
+								<a href="#" class="tt-btn tt-btn__top" data-toggle="modal" data-target="#modalMRequestQuote" tabindex="-1">
+									<span class="mask">Order Now</span>
+									<div class="button">Order Now</div>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="item_right">
+						<div class="item__img">
+							<picture>
+								<source srcset="images/mainslide01-02-md.jpg" media="(max-width: 1024px)" type="image/jpg">
+								<source srcset="images/mainslide01-02-md.jpg" media="(max-width: 1024px)" type="image/jpg">
+								<source srcset="images/mainslide01-02.jpg" type="image/jpg">
+								<source srcset="images/mainslide01-02.jpg" type="image/jpg">
+								<img src="images/mainslide01-02.jpg" alt="">
+							</picture>
+						</div>
+						<div class="item__content">
+							<div class="content-align js-rotation">
+								<h4 class="main-slider__title">Dry<br> Cleaning</h4>
+								<p>Cleaning Excellence Guaranteed!</p>
+								<a href="#" class="tt-btn tt-btn__top" data-toggle="modal" data-target="#modalMRequestQuote" tabindex="-1">
+									<span class="mask">Order Now</span>
+									<div class="button">Order Now</div>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div><div class="item slick-slide slick-current slick-active" data-slick-index="1" aria-hidden="false" style="width: 1220px; position: relative; left: -1220px; top: 0px; z-index: 999; opacity: 1;" tabindex="0">
+					<div class="item_left">
+						<div class="item__img">
+							<picture>
+								<source srcset="images/mainslide01-01-md.jpg" media="(max-width: 1024px)" type="image/webp">
+								<source srcset="images/mainslide01-01-md.jpg" media="(max-width: 1024px)" type="image/jpg">
+								<source srcset="images/mainslide01-01-md.jpg" type="image/webp">
+								<source srcset="images/mainslide01-01-md.jpg" type="image/jpg">
+								<img src="images/mainslide02-01.jpg" alt="">
+							</picture>
+						</div>
+						<div class="item__content">
+							<div class="content-align js-rotation">
+								<h4 class="main-slider__title">Laundry<br> Service</h4>
+								<p>We Care for the Clothes You Wear</p>
+								<a href="#" class="tt-btn tt-btn__top" data-toggle="modal" data-target="#modalMRequestQuote" tabindex="0">
+									<span class="mask">Order Now</span>
+									<div class="button">Order Now</div>
+								</a>
+							</div>
+						</div>
+					</div>
+					<div class="item_right">
+						<div class="item__img">
+							<picture>
+								<source srcset="images/mainslide01-02-md.jpg" media="(max-width: 1024px)" type="image/webp">
+								<source srcset="images/mainslide01-02-md.jpg" media="(max-width: 1024px)" type="image/jpg">
+								<source srcset="images/mainslide01-02-md.jpg" type="image/webp">
+								<source srcset="images/mainslide01-02-md.jpg" type="image/jpg">
+								<img src="images/mainslide01-02-md.jpg" alt="">
+							</picture>
+						</div>
+						<div class="item__content">
+							<div class="js-rotation content-align">
+								<h4 class="main-slider__title">Dry<br> Cleaning</h4>
+								<p>Cleaning Excellence Guaranteed!</p>
+								<a href="#" class="tt-btn tt-btn__top" data-toggle="modal" data-target="#modalMRequestQuote" tabindex="0">
+									<span class="mask">Order Now</span>
+									<div class="button">Order Now</div>
+								</a>
+							</div>
+						</div>
+					</div>
+				</div></div></div>
+				
+			</div>
+			<div class="bubbles-container start" id="bubbles">
+				<div style="top: 60.3%; margin-left: -2.1%;">
+					<img src="images/bubbles-06.png" class="bubbles-response-03" alt="">
+				</div>
+				<div style="top: 52.3%; margin-left: -5.3%;">
+					<img src="images/stars-01.png" class="bubbles-stars" alt="">
+				</div>
+				<div style="top: 39.5%; margin-left: 0.7%;">
+					<img src="images/bubbles-03.png" class="bubbles-response-03" alt="">
+				</div>
+				<div style="top: 26.5%; margin-left: -3.8%;">
+					<img src="images/bubbles-05.png" alt="">
+				</div>
+				<div style="top: 11.4%; margin-left: 0.7%;">
+					<img src="images/bubbles-01.png" class="bubbles-response-01" alt="">
+				</div>
+				<div style="top: 81%; margin-left: -1.5%;">
+					<img src="images/bubbles-07.png" alt="">
+				</div>
+				<div style="top: 54.8%; margin-left: -2.3%;">
+					<img src="images/bubbles-09.png" alt="">
+				</div>
+				<div style="top: 8.9%; margin-left: -3.1%;">
+					<img src="images/stars-02.png" class="bubbles-stars" alt="">
+				</div>
+				<div style="top: 68.2%; margin-left: 1.3%;">
+					<img src="images/bubbles-10.png" alt="">
+				</div>
+				<div style="top: 67.2%; margin-left: 0.1%;">
+					<img src="images/bubbles-02.png" class="bubbles-response-02" alt="">
+				</div>
+				<div style="top: 77.2%; margin-left: 1.2%;">
+					<img src="images/bubbles-11.png" alt="">
+				</div>
+				<div style="top: 7.2%; margin-left: -6.3%;">
+					<img src="images/stars-03.png" class="bubbles-stars" alt="">
+				</div>
+				<div style="top: 7.8%; margin-left: 4.1%;">
+					<img src="images/bubbles-08.png" alt="">
+				</div>
+				<div style="top: 6.7%; margin-left: 2.3%;">
+					<img src="images/stars-04.png" class="bubbles-stars" alt="">
+				</div>
+				<div style="top: 38.5%; margin-left: -2.5%;">
+					<img src="images/stars-06.png" class="bubbles-stars" alt="">
+				</div>
+				<div style="top: 83.5%; margin-left: 5.4%;">
+					<img src="images/stars-07.png" class="bubbles-stars" alt="">
+				</div>
+				<div style="top: 16.5%; margin-left: 5.5%;">
+					<img src="images/stars-05.png" class="bubbles-stars" alt="">
+				</div>
+			</div></div></div>
       <div
         class="section-inner lazyload bg-top-left move-top-bottom tt-overflow-hidden"
         data-bg="images/wrapper01.png"
@@ -211,7 +198,7 @@
           <div class="box01">
             <div class="box01__img">
               <img
-                src="data:image/gif;base64,iVBORw0KGgoAAAANSUhEUgAAAfoAAAHtAQMAAADLCC4pAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAADZJREFUeNrtwTEBAAAAwiD7p7bDbmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAxQF9LQABorKvFgAAAABJRU5ErkJggg=="
+                src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.806984754115!2d6.792345074078326!3d6.156599993830528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1043936cadcd3b79%3A0x489d8ea6cd851604!2sBeautiful%20Colours%20Laundry%20%26%20Super%20Dry%20Cleaning!5e0!3m2!1sen!2sng!4v1712051569178!5m2!1sen!2sng"
                 class="lazyload"
                 data-src="images/img01.png"
                 alt=""
@@ -360,7 +347,7 @@
                   ><div class="imgbox-inner__img">
                     <img
                       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAIIAQMAAACIJgJoAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAD1JREFUeNrtwTEBAAAAwiD7pzbDfmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQHmmAAAa/2RGEAAAAASUVORK5CYII="
-                      data-src="images/imgbox-inner__img01.jpg"
+                      data-src="images/imgbox-inner__img01.png"
                       class="lazyload"
                       alt=""
                     />
@@ -414,7 +401,7 @@
                   ><div class="imgbox-inner__img">
                     <img
                       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAIIAQMAAACIJgJoAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAD1JREFUeNrtwTEBAAAAwiD7pzbDfmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQHmmAAAa/2RGEAAAAASUVORK5CYII="
-                      data-src="images/imgbox-inner__img02.jpg"
+                      data-src="images/imgbox-inner__img02.png"
                       class="lazyload"
                       alt=""
                     />
@@ -505,7 +492,7 @@
                   ><div class="imgbox-inner__img">
                     <img
                       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAIIAQMAAACIJgJoAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAD1JREFUeNrtwTEBAAAAwiD7pzbDfmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQHmmAAAa/2RGEAAAAASUVORK5CYII="
-                      data-src="images/imgbox-inner__img03.jpg"
+                      data-src="images/imgbox-inner__img03.png"
                       class="lazyload"
                       alt=""
                     />
@@ -551,7 +538,7 @@
                   ><div class="imgbox-inner__img">
                     <img
                       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAIIAQMAAACIJgJoAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAD1JREFUeNrtwTEBAAAAwiD7pzbDfmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQHmmAAAa/2RGEAAAAASUVORK5CYII="
-                      data-src="images/imgbox-inner__img04.jpg"
+                      data-src="images/imgbox-inner__img04.png"
                       class="lazyload"
                       alt=""
                     />
@@ -579,7 +566,7 @@
                   ><div class="imgbox-inner__img">
                     <img
                       src="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAlgAAAIIAQMAAACIJgJoAAAAA1BMVEUAAACnej3aAAAAAXRSTlMAQObYZgAAAD1JREFUeNrtwTEBAAAAwiD7pzbDfmAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAACQHmmAAAa/2RGEAAAAASUVORK5CYII="
-                      data-src="images/imgbox-inner__img05.jpg"
+                      data-src="images/imgbox-inner__img05.png"
                       class="lazyload"
                       alt=""
                     />
@@ -1216,22 +1203,22 @@
             <div class="box02__img">
               <picture
                 ><source
-                  srcset="images/box02-img02-sm.webp"
+                  srcset="images/box02-img02.png"
                   media="(max-width: 650px)"
                   type="image/webp" />
                 <source
-                  srcset="images/box02-img02-sm.jpg"
+                  srcset="images/box02-img02.png"
                   media="(max-width: 650px)"
                   type="image/png" />
                 <source
-                  srcset="images/box02-img02-md.webp"
+                  srcset="images/box02-img02.png"
                   media="(max-width: 1024px)"
                   type="image/webp" />
                 <source
-                  srcset="images/box02-img02-md.jpg"
+                  srcset="images/box02-img02.png"
                   media="(max-width: 1024px)"
                   type="image/png" />
-                <source srcset="images/box02-img02.png" type="image/webp" />
+                <source srcset="images/box02-img02.png" type="image/png />
                 <img src="images/box02-img02.png" alt="" /></picture
               ><img class="tt-arrow" src="images/arrow-img-left02.png" alt="" />
             </div>
@@ -1563,136 +1550,24 @@
           src="data:image/gif;base64,R0lGODlhAQABAAAAACH5BAEKAAEALAAAAAABAAEAAAICTAEAOw=="
           class="lazyload"
           data-expand="-220"
-          data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3111.5820008392016!2d-77.45701318432829!3d38.75035326320268!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x89b65b93b943fb07%3A0xc8712e829da92b9e!2sHistoric%20District%2C%208494%20Signal%20Hill%20Rd%2C%20Manassas%2C%20VA%2020110%2C%20USA!5e0!3m2!1sen!2sua!4v1605172763191!5m2!1sen!2sua"
+          data-src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3966.806984754115!2d6.792345074078326!3d6.156599993830528!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x1043936cadcd3b79%3A0x489d8ea6cd851604!2sBeautiful%20Colours%20Laundry%20%26%20Super%20Dry%20Cleaning!5e0!3m2!1sen!2sng!4v1712051569178!5m2!1sen!2sng"
           allowfullscreen=""
           aria-hidden="false"
         ></iframe>
       </div>
     </main>
-    <footer id="tt-footer">
-      <div class="footer-wrapper01">
-        <div class="container container-fluid-xl">
-          <div class="row f-col-wrapper">
-            <div class="col-md-4">
-              <a href="index.html" class="f-logo"
-                ><i class="icons-logo tt-icon"></i
-                ><span class="tt-base-color">Pro</span>Laundry</a
-              >
-              <div class="f-text">
-                We are professionals in the laundry and dry cleaning business,
-                which means we always stay up to date on the latest technologies
-                and cleaning methods.
-              </div>
-              <ul class="f-social">
-                <li>
-                  <a
-                    href="https://twitter.com/"
-                    target="_blank"
-                    class="icons-733635"
-                  ></a>
-                </li>
-                <li>
-                  <a
-                    href="https://www.facebook.com/"
-                    target="_blank"
-                    class="icons-59439"
-                  ></a>
-                </li>
-                <li><a href="#" target="_blank" class="icons-2111532"></a></li>
-                <li>
-                  <a
-                    href="https://www.instagram.com/"
-                    target="_blank"
-                    class="icons-733614"
-                  ></a>
-                </li>
-              </ul>
-            </div>
-            <div class="col-md-4">
-              <h6 class="f-title">Contacts</h6>
-              <ul class="f-info">
-                <li>
-                  <i class="icons-484169"></i> 8494 Signal Hill Road Manassas,
-                  VA, 20110
-                </li>
-                <li>
-                  <i class="icons-59252"></i> Mon-Fri: 8am - 5pm<br />Sat-Sun:
-                  10am - 5pm
-                </li>
-                <li>
-                  <a href="mailto:info@yourlaundrysite.com"
-                    ><i class="icons-1004017"></i> info@yourlaundrysite.com</a
-                  >
-                </li>
-                <li>
-                  <strong
-                    ><a href="tel:1(800)765-43-21"
-                      ><i class="icons-4839471"></i> 1 (800) 765-43-21</a
-                    ></strong
-                  >
-                </li>
-              </ul>
-            </div>
-            <div class="col-md-4">
-              <h6 class="f-title">Newsletter Subscribe</h6>
-              <form
-                id="subscribeform"
-                method="post"
-                novalidate="novalidate"
-                action="#"
-              >
-                <div class="f-form">
-                  <div class="f-form__label">
-                    Sign up and receive our special offers.
-                  </div>
-                  <div class="f-form__input">
-                    <input
-                      type="text"
-                      name="email"
-                      class="form-control"
-                      placeholder="Your e-mail address"
-                    />
-                  </div>
-                  <div class="f-form__btn">
-                    <div class="tt-btn">
-                      <span class="mask">Subscribe now</span>
-                      <button class="button" type="submit">
-                        Subscribe now
-                      </button>
-                    </div>
-                  </div>
-                </div>
-              </form>
-            </div>
-          </div>
-        </div>
-      </div>
-      <div class="container container-fluid-xl">
-        <div class="f-holder">
-          <div class="f-copyright">
-            &copy; 2020 <span class="tt-base-color">Pro</span>Laundry. All
-            Rights Reserved.
-          </div>
-          <ul class="f-link">
-            <li><a href="#">Terms and Conditions</a></li>
-            <li><a href="#">Privacy Policy</a></li>
-          </ul>
-        </div>
-      </div>
-      <div class="bubbleContainer">
-        <div class="bubble-1"></div>
-        <div class="bubble-2"></div>
-        <div class="bubble-3"></div>
-        <div class="bubble-4"></div>
-        <div class="bubble-5"></div>
-        <div class="bubble-6"></div>
-        <div class="bubble-7"></div>
-        <div class="bubble-8"></div>
-        <div class="bubble-9"></div>
-        <div class="bubble-10"></div>
-      </div>
-    </footer>
-    <script src="../../../ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+
+
+    <?php require_once "include/footer.php"; ?>
+
+
+
+
+
+
+
+    <script src="ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
     <script async src="js/bundle.js"></script>
     <!-- modal - Make an Appointment -->
     <div
@@ -1888,6 +1763,6 @@
         });
       })(jQuery);
     </script>
+
   </body>
-  <!-- Mirrored from websmirno.site/viktor/prolaundry/index.html by HTTrack Website Copier/3.x [XR&CO'2014], Mon, 01 Apr 2024 20:03:17 GMT -->
 </html>
